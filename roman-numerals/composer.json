@@ -1,0 +1,12 @@
+{
+  "name": "RomanNumerals",
+  "description": "A BDD roman numerals example",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  }
+}

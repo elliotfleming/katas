@@ -1,0 +1,4 @@
+suites:
+  fizzbuzz_suite:
+    namespace: FizzBuzz
+    psr4_prefix: FizzBuzz

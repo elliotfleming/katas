@@ -1,0 +1,12 @@
+{
+  "name": "FizzBuzz",
+  "description": "A BDD FizzBuzz example",
+  "autoload": {
+    "psr-4": {
+      "FizzBuzz\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  }
+}

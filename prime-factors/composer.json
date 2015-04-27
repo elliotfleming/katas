@@ -1,0 +1,12 @@
+{
+  "name": "PrimeFactors",
+  "description": "A BDD prime factor example",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  }
+}

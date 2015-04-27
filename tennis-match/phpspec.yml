@@ -1,0 +1,4 @@
+suites:
+  tennis_suite:
+    namespace: Tennis
+    psr4_prefix: Tennis

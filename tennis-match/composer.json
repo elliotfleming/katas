@@ -1,0 +1,12 @@
+{
+  "name": "TennisGame",
+  "description": "A BDD tennis game example",
+  "autoload": {
+    "psr-4": {
+      "Tennis\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  }
+}

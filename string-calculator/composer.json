@@ -1,0 +1,12 @@
+{
+  "name": "StringCalculator",
+  "description": "A BDD string calculator example",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.2"
+  }
+}
